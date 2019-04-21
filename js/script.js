@@ -262,7 +262,7 @@ $('.push_nav li a').on('click', function(){
 var swiper = new Swiper('.main_slider', {
     pagination: '.swiper-pagination',
     paginationClickable: true,
-    nextButton: '.swiper-button-next',
+    nextButton: '.hero-next',
     prevButton: '.swiper-button-prev',
 });
 

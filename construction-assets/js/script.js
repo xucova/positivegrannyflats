@@ -1,6 +1,6 @@
 var swiper = new Swiper('.main_slider_construction', {
     pagination: '.swiper-pagination',
     paginationClickable: true,
-    nextButton: '.swiper-button-next',
+    nextButton: '.hero-next',
     prevButton: '.swiper-button-prev',
 });
