@@ -9,7 +9,7 @@ jQuery(function ($) {
             scrollwheel: false,
             animation: google.maps.Animation.DROP,
             mapTypeId: google.maps.MapTypeId.ROADMAP,
-            center: new google.maps.LatLng(-37.813628, 144.963058), // area location
+            center: new google.maps.LatLng(-34.2300046, 150.9821346), // area location
             styles: [{
                 "stylers": [{
                     "saturation": -100
@@ -91,7 +91,7 @@ jQuery(function ($) {
 
         //add locations
         var locations = [
-            ['<p"class="logomap">MEOX</p>', -37.813628, 144.963058, 'images/pin.png'],
+            ['<p"class="logomap">Positive Granny Flats</p>', -34.2300046, 150.9821346, 'images/pin.png'],
         ];
         //declare marker call it 'i'
         var marker, i;
