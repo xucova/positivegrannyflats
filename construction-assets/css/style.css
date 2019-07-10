@@ -14,14 +14,14 @@
 
 /* Customer Review Section */
 .customer_feedback_section{
-    background: url("../images/customer_review.jpg") !important;
+    background: url(../../images/pgf/dark/pgf12.png) !important;
     background-size: cover !important;
     background-attachment: fixed !important;
 }
 
 /* Side Section Styling */
 .construction_index .half_section_right .half_section_picture{
-    background: url(../images/half_section_right.jpg) !important;
+    background: url(../../images/pgf/pgf1.jpg) !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
 
