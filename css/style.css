@@ -1590,6 +1590,7 @@ body.pushmenu-push-toLeft{
 
 .stats_section_inner h3{
     margin-bottom: 15px;
+    text-shadow: 2px 2px white;
 }
 
 /* Half Sections */
